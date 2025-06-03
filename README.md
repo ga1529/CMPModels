@@ -1,0 +1,1 @@
+R code contains a conway maxwell poisson counts model that is extended to accomodate item characteristics and indivudal items. Gamma is item type effects, beta is individual item effects, theta is latent action, sigma_beta_k is item disturbance, or the variance of individual items within each item type. Alpha is item discrimination.
